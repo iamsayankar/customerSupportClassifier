@@ -1,0 +1,201 @@
+ticket_id,ticket_description,category,priority,status
+T001,I cannot login to my account Please assist.,Login Issue,Medium,Open
+T002,My password is not working,Login Issue,Medium,Open
+T003,I forgot my password,Login Issue,High,Closed
+T004,The login page rejects my credentials,Login Issue,High,Open
+T005,I am unable to sign in,Login Issue,Medium,Open
+T006,Please help me reset my password,Login Issue,Low,Closed
+T007,My account login keeps failing,Login Issue,Low,Open
+T008,I cannot access my account Please assist.,Login Issue,Medium,Closed
+T009,Login is not working,Login Issue,Low,Closed
+T010,I entered the correct password but cannot login,Login Issue,High,Open
+T011,The sign in button does not work,Login Issue,High,Closed
+T012,I need help with password reset,Login Issue,Medium,Open
+T013,My account is locked after login attempts,Login Issue,High,Open
+T014,Unable to authenticate my account,Login Issue,Low,Open
+T015,I cannot sign into the application Please assist.,Login Issue,High,Closed
+T016,Password reset link is not working,Login Issue,High,In Progress
+T017,Login credentials are being rejected,Login Issue,Medium,In Progress
+T018,I am having trouble logging in,Login Issue,Medium,Closed
+T019,The login screen shows an error,Login Issue,High,Closed
+T020,I lost access to my account password,Login Issue,High,Closed
+T021,I cannot login to my account,Login Issue,High,Open
+T022,My password is not working Please assist.,Login Issue,Low,Open
+T023,I forgot my password,Login Issue,Low,Open
+T024,The login page rejects my credentials,Login Issue,Low,Open
+T025,I am unable to sign in,Login Issue,Medium,Open
+T026,Please help me reset my password,Login Issue,Medium,Open
+T027,My account login keeps failing,Login Issue,Medium,In Progress
+T028,I cannot access my account,Login Issue,Medium,Closed
+T029,Login is not working Please assist.,Login Issue,Low,In Progress
+T030,I entered the correct password but cannot login,Login Issue,Low,Open
+T031,The sign in button does not work,Login Issue,High,Closed
+T032,I need help with password reset,Login Issue,Medium,Closed
+T033,My account is locked after login attempts,Login Issue,High,In Progress
+T034,Unable to authenticate my account,Login Issue,Low,Open
+T035,I cannot sign into the application,Login Issue,Medium,Open
+T036,Password reset link is not working Please assist.,Login Issue,Low,In Progress
+T037,Login credentials are being rejected,Login Issue,High,Open
+T038,I am having trouble logging in,Login Issue,Medium,Open
+T039,The login screen shows an error,Login Issue,High,Closed
+T040,I lost access to my account password,Login Issue,Medium,Open
+T041,The application shows an error while saving data Please assist.,Application Error,Medium,Open
+T042,I get an error when opening the application,Application Error,Medium,In Progress
+T043,The app crashes when I save a record,Application Error,Medium,Open
+T044,An unexpected error appears on the screen,Application Error,High,Closed
+T045,The application is showing an error message,Application Error,Low,Open
+T046,I cannot save because the app throws an error,Application Error,Low,Closed
+T047,The system crashes when submitting the form,Application Error,High,Open
+T048,There is an application exception Please assist.,Application Error,Low,Open
+T049,The app stops working after I click submit,Application Error,High,Closed
+T050,A technical error appears while updating data,Application Error,High,In Progress
+T051,The application failed to process my request,Application Error,Low,In Progress
+T052,I receive an error when creating a record,Application Error,Medium,Closed
+T053,The page displays an unexpected application error,Application Error,Medium,Closed
+T054,The software crashes during data entry,Application Error,Low,Open
+T055,An error occurs when I upload information Please assist.,Application Error,Medium,In Progress
+T056,The application is not processing my request,Application Error,High,Open
+T057,I see an exception while saving changes,Application Error,Medium,Open
+T058,The system shows an error after submission,Application Error,High,In Progress
+T059,The app closes unexpectedly,Application Error,Medium,Closed
+T060,There is a problem with the application,Application Error,Medium,Open
+T061,The application shows an error while saving data,Application Error,High,Closed
+T062,I get an error when opening the application Please assist.,Application Error,High,Closed
+T063,The app crashes when I save a record,Application Error,Low,Open
+T064,An unexpected error appears on the screen,Application Error,Low,In Progress
+T065,The application is showing an error message,Application Error,High,In Progress
+T066,I cannot save because the app throws an error,Application Error,Medium,Open
+T067,The system crashes when submitting the form,Application Error,High,In Progress
+T068,There is an application exception,Application Error,Low,Closed
+T069,The app stops working after I click submit Please assist.,Application Error,Low,In Progress
+T070,A technical error appears while updating data,Application Error,High,Open
+T071,The application failed to process my request,Application Error,Medium,Closed
+T072,I receive an error when creating a record,Application Error,Medium,In Progress
+T073,The page displays an unexpected application error,Application Error,Medium,Open
+T074,The software crashes during data entry,Application Error,Medium,In Progress
+T075,An error occurs when I upload information,Application Error,Low,Open
+T076,The application is not processing my request Please assist.,Application Error,High,Closed
+T077,I see an exception while saving changes,Application Error,Medium,Closed
+T078,The system shows an error after submission,Application Error,Low,Open
+T079,The app closes unexpectedly,Application Error,Medium,Closed
+T080,There is a problem with the application,Application Error,Low,Open
+T081,Please help me generate my monthly sales report Please assist.,Report,Low,Closed
+T082,I need a sales report,Report,Low,In Progress
+T083,How can I download the monthly report,Report,High,Open
+T084,Please generate the customer report,Report,Low,Closed
+T085,I need the quarterly sales report,Report,Low,Open
+T086,The report is required for this month,Report,High,Closed
+T087,Can you provide a transaction report,Report,Medium,In Progress
+T088,I want to export the sales report Please assist.,Report,High,Open
+T089,Please create a report for last month,Report,Low,Open
+T090,I need an annual performance report,Report,Medium,Closed
+T091,How do I generate a financial report,Report,High,Closed
+T092,Please help me download a report,Report,High,Open
+T093,I need the weekly sales summary,Report,Medium,Open
+T094,Can you generate the requested report,Report,High,Open
+T095,I want to export customer data as a report Please assist.,Report,Low,Open
+T096,Please provide the monthly business report,Report,Medium,Open
+T097,The management needs a sales report,Report,Low,In Progress
+T098,I need a report for the previous quarter,Report,Medium,In Progress
+T099,How can I generate an account report,Report,Medium,Open
+T100,Please create a report from the system,Report,High,In Progress
+T101,Please help me generate my monthly sales report,Report,High,In Progress
+T102,I need a sales report Please assist.,Report,High,Open
+T103,How can I download the monthly report,Report,Medium,Open
+T104,Please generate the customer report,Report,Medium,Open
+T105,I need the quarterly sales report,Report,Medium,In Progress
+T106,The report is required for this month,Report,Medium,In Progress
+T107,Can you provide a transaction report,Report,Medium,Open
+T108,I want to export the sales report,Report,High,In Progress
+T109,Please create a report for last month Please assist.,Report,Medium,In Progress
+T110,I need an annual performance report,Report,Low,Open
+T111,How do I generate a financial report,Report,High,Closed
+T112,Please help me download a report,Report,Medium,In Progress
+T113,I need the weekly sales summary,Report,Low,Closed
+T114,Can you generate the requested report,Report,Medium,In Progress
+T115,I want to export customer data as a report,Report,Low,In Progress
+T116,Please provide the monthly business report Please assist.,Report,Low,Open
+T117,The management needs a sales report,Report,Medium,Closed
+T118,I need a report for the previous quarter,Report,Low,Open
+T119,How can I generate an account report,Report,High,Open
+T120,Please create a report from the system,Report,Medium,Closed
+T121,I need to change my registered mobile number Please assist.,Account Update,Medium,Closed
+T122,Please update my email address,Account Update,Medium,In Progress
+T123,I want to change my account details,Account Update,Low,In Progress
+T124,How can I update my phone number,Account Update,Low,Open
+T125,Please change my registered email,Account Update,Medium,Open
+T126,I need to update my profile information,Account Update,Medium,In Progress
+T127,My address has changed and I want to update it,Account Update,Low,Closed
+T128,Please modify my account information Please assist.,Account Update,High,In Progress
+T129,I want to update my contact details,Account Update,Low,Open
+T130,How do I change my profile name,Account Update,Medium,In Progress
+T131,Please update my registered address,Account Update,High,In Progress
+T132,I need to change my account phone,Account Update,Medium,Open
+T133,Can I update my personal information,Account Update,High,In Progress
+T134,Please change my account email,Account Update,Medium,In Progress
+T135,I want to edit my customer details Please assist.,Account Update,Medium,Open
+T136,How can I update my profile,Account Update,High,Open
+T137,My contact number needs to be changed,Account Update,Medium,In Progress
+T138,Please update my account details,Account Update,Low,Open
+T139,I need to modify my registered information,Account Update,Low,Closed
+T140,How do I change my customer information,Account Update,Medium,Closed
+T141,I need to change my registered mobile number,Account Update,High,Open
+T142,Please update my email address Please assist.,Account Update,Medium,Open
+T143,I want to change my account details,Account Update,Medium,In Progress
+T144,How can I update my phone number,Account Update,High,Open
+T145,Please change my registered email,Account Update,Medium,Open
+T146,I need to update my profile information,Account Update,Low,In Progress
+T147,My address has changed and I want to update it,Account Update,Medium,Open
+T148,Please modify my account information,Account Update,High,Closed
+T149,I want to update my contact details Please assist.,Account Update,Medium,Open
+T150,How do I change my profile name,Account Update,Low,In Progress
+T151,Please update my registered address,Account Update,High,Closed
+T152,I need to change my account phone,Account Update,High,Closed
+T153,Can I update my personal information,Account Update,Low,Open
+T154,Please change my account email,Account Update,Medium,In Progress
+T155,I want to edit my customer details,Account Update,High,In Progress
+T156,How can I update my profile Please assist.,Account Update,High,Open
+T157,My contact number needs to be changed,Account Update,Low,Open
+T158,Please update my account details,Account Update,High,In Progress
+T159,I need to modify my registered information,Account Update,Medium,Closed
+T160,How do I change my customer information,Account Update,Low,In Progress
+T161,The application is very slow today Please assist.,Performance,High,In Progress
+T162,The website takes too long to load,Performance,High,In Progress
+T163,The system is running slowly,Performance,Low,In Progress
+T164,Pages are loading very slowly,Performance,Medium,In Progress
+T165,The application performance is poor,Performance,High,In Progress
+T166,The website has become extremely slow,Performance,High,Open
+T167,It takes a long time to open the dashboard,Performance,High,Open
+T168,The system response time is very high Please assist.,Performance,High,In Progress
+T169,The app is taking too long to respond,Performance,Low,In Progress
+T170,The application is slow when searching,Performance,Medium,Open
+T171,The dashboard loads slowly,Performance,High,Open
+T172,The website performance has decreased,Performance,Low,Open
+T173,The system is responding very slowly,Performance,Medium,In Progress
+T174,There is a delay when using the application,Performance,High,Open
+T175,The application takes too long to process requests Please assist.,Performance,Medium,Open
+T176,The site is slow during normal use,Performance,High,Closed
+T177,Loading time is unusually high,Performance,High,Open
+T178,The system is very slow today,Performance,High,Open
+T179,The application freezes for a long time,Performance,High,Open
+T180,The website response is delayed,Performance,Low,Open
+T181,The application is very slow today,Performance,High,Open
+T182,The website takes too long to load Please assist.,Performance,Medium,Closed
+T183,The system is running slowly,Performance,Medium,Closed
+T184,Pages are loading very slowly,Performance,Medium,In Progress
+T185,The application performance is poor,Performance,Low,In Progress
+T186,The website has become extremely slow,Performance,Medium,In Progress
+T187,It takes a long time to open the dashboard,Performance,High,Closed
+T188,The system response time is very high,Performance,Medium,Open
+T189,The app is taking too long to respond Please assist.,Performance,Medium,Open
+T190,The application is slow when searching,Performance,Medium,In Progress
+T191,The dashboard loads slowly,Performance,High,Open
+T192,The website performance has decreased,Performance,Medium,Open
+T193,The system is responding very slowly,Performance,Medium,Open
+T194,There is a delay when using the application,Performance,Low,Open
+T195,The application takes too long to process requests,Performance,High,Closed
+T196,The site is slow during normal use Please assist.,Performance,High,Closed
+T197,Loading time is unusually high,Performance,Medium,Closed
+T198,The system is very slow today,Performance,Low,Open
+T199,The application freezes for a long time,Performance,Medium,Closed
+T200,The website response is delayed,Performance,Medium,Closed
